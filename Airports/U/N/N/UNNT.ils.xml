@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>82.622541</lon>
+      <lat>55.009880</lat>
+      <rwy>07</rwy>
+      <hdg-deg>80.97</hdg-deg>
+      <elev-m>112</elev-m>
+      <nav-id>IRO</nav-id>
+    </ils>
+    <ils>
+      <lon>82.678256</lon>
+      <lat>55.014957</lat>
+      <rwy>25</rwy>
+      <hdg-deg>259.03</hdg-deg>
+      <elev-m>112</elev-m>
+      <nav-id>IKT</nav-id>
+    </ils>
+  </runway>
+</PropertyList>
